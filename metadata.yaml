@@ -1,0 +1,25 @@
+_repo: History-of-the-Life-of-Gustavus-Adolphus-II-the-Hero-General-of-the-Reformation_51680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Monroe, Harriet Earhart
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '46521'
+    url: http://www.gutenberg.org/2009/agents/46521
+description: ''
+gutenberg_issued: '2016-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51680'
+  lccn: '10025885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Gustav II Adolf, King of Sweden, 1594-1632'
+- GITenberg
+title: History of the Life of Gustavus Adolphus II., the Hero-General of the Reformation
+url: http://www.gutenberg.org/ebooks/51680
